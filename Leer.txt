@@ -1,0 +1,3 @@
+para el funcionamiento del proyecto se debe IMPORTAR 
+las 3 bases de datos que se encuentran en la carpeta con el mismo nombre y configurar
+el archivo conexion.php con el host, usuario y correspondiente al de su servidor
